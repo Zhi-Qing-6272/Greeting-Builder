@@ -42,6 +42,6 @@ console.log(createGreeting("Ava", "Stone", "morning"));
 
 ## Project URL
 
-**Project URL:** PASTE_YOUR_PROJECT_URL_HERE
+**Project URL:** https://github.com/Zhi-Qing-6272/Greeting-Builder/tree/main
 
 **Note:** To match the expected output, return `"Good evening"` without a trailing space in `getGreeting()`.
