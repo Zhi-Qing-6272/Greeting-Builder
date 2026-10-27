@@ -2,6 +2,10 @@
 
 A simple JavaScript project that creates personalized greetings using a person's first name, last name, and time of day.
 
+## Project URL
+
+**Project URL:** https://github.com/Zhi-Qing-6272/Greeting-Builder/tree/main
+
 ## Requirements
 
 - [Node.js](https://nodejs.org/) installed on your computer
@@ -39,9 +43,5 @@ Good afternoon, Mina Patel
 console.log(createGreeting("Ava", "Stone", "morning"));
 // Good morning, Ava Stone
 ```
-
-## Project URL
-
-**Project URL:** https://github.com/Zhi-Qing-6272/Greeting-Builder/tree/main
 
 **Note:** To match the expected output, return `"Good evening"` without a trailing space in `getGreeting()`.
