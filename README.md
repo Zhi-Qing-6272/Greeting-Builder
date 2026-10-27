@@ -4,7 +4,7 @@ A simple JavaScript project that creates personalized greetings using a person's
 
 ## Project URL
 
-**Project URL:** https://github.com/Zhi-Qing-6272/Greeting-Builder/tree/main
+**Project URL:** https://roadmap.sh/projects/js-greeting-builder
 
 ## Requirements
 
