@@ -1,7 +1,5 @@
 # Greeting-Builder
 
-# Greeting Builder
-
 A simple JavaScript project that creates personalized greetings using a person's first name, last name, and time of day.
 
 ## Requirements
